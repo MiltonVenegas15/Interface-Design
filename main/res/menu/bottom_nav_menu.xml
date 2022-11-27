@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:name="com.example.menu.ui.calculadora.calculadoraFragment"
+        android:title="calculadora" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.menu.ui.formulario.formularioFragment"
+        android:title="formulario" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.menu.ui.juego.juegoFragment"
+        android:title="juego" />
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica2</string>
+    <string name="title_home">Calculadora</string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
